@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @GustavoAmabile, Systems Analysis an Developer! 
+- 👋 Hi, I’m @GustavoAmabile! 
 - 👀 I’m interested in Mobile Development, BackEnd, FrontEnd, Database...
-- 🌱 I’m currently learning Java!
 - 💞️ I’m looking to collaborate on coding!
 - 📫 How to reach me gustavoguamabile@gmail.com
 
